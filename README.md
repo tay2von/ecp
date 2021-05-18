@@ -20,7 +20,7 @@ The Environmental Control Program is meant to regulate temperature per room with
 The Environmental Control Program is meant to regulate temperature per room within a structure using thermometers in each room to regulate temperature autonomously. Ideally, a building that meets temperature equilibrium will not have “hot” and “cold” areas, but will have evenly adjusted temperatures. There are three phases to temperature control within a structure. For the purpose of this example, we will identify the structure as “ThermoHouse”. 
 
 ### Interface
-Here are teo screenshots from our application
+Here are the screenshots from our application
 
 The top port, users are able to set the desired temperature for their house, _ThermoHouse_. 
 
